@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    gap: 20px;
+    background-color: rgb(196, 176, 45);
+  }
+  
+  @media screen and (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      gap: 5px;
+    }
+  }
+  

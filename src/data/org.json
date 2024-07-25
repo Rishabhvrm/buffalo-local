@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Edu 101",
+    "type": "Education",
+    "address": "123 Main Street, Buffalo, NY 14214",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "email": "abc@123.com",
+    "phone": "999-999-9999",
+    "image_url": "/assest/images/local-biz-1.jpg"
+  },
+  {
+    "name": "Health 101",
+    "type": "Health",
+    "address": "123 Main Street, Buffalo, NY 14214",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "email": "abc@123.com",
+    "phone": "999-999-9999",
+    "image_url": "/assest/images/local-biz-2.jpg"
+  },
+  {
+    "name": "Business 101",
+    "type": "Business",
+    "address": "123 Main Street, Buffalo, NY 14214",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "email": "abc@123.com",
+    "phone": "999-999-9999",
+    "image_url": "/assest/images/local-biz-3.jpg"
+  },
+  {
+    "name": "Food 101",
+    "type": "Food",
+    "address": "123 Main Street, Buffalo, NY 14214",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "email": "abc@123.com",
+    "phone": "999-999-9999",
+    "image_url": "/assest/images/local-biz-4.jpg"
+  },
+  {
+    "name": "LifeStyle 101",
+    "type": "LifeStyle",
+    "address": "123 Main Street, Buffalo, NY 14214",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "email": "abc@123.com",
+    "phone": "999-999-9999",
+    "image_url": "/assest/images/local-biz-5.jpg"
+  },
+  {
+    "name": "Food 101",
+    "type": "Food",
+    "address": "123 Main Street, Buffalo, NY 14214",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "email": "abc@123.com",
+    "phone": "999-999-9999",
+    "image_url": "/assest/images/local-biz-6.jpg"
+  }
+]
