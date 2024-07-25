@@ -1,0 +1,2 @@
+# buffalo-local
+Buffalo Local
