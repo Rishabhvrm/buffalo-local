@@ -21,7 +21,8 @@ export function Repo(props) {
     <Flex borderWidth={1} p={"0%"} bg={"white"} mb={"2%"} rounded={"md"}>
       <Flex flex={1} flexDir={"column"}>
         <Image
-          src={`${process.env.REACT_APP_UI_URL}${org.image_url}`}
+          // src={`${process.env.REACT_APP_UI_URL}${org.image_url}`}
+          src={`${org.image_url}`}
           w={"100%"}
           h={"100%"}
           objectFit={"cover"}
