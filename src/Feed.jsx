@@ -11,7 +11,7 @@ import classes from "./Feed.module.css";
 export function Feed() {
   const [viewType, setViewType] = useState();
   return (
-    <Box maxWidth="1200px" mx="auto">
+    <Box maxWidth="1200px" mx="auto" px={"5%"}>
       <PageHeader />
 
       {/* <Flex
