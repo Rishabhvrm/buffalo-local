@@ -1,56 +1,62 @@
 [
   {
-    "name": "Edu 101",
-    "type": "Education",
-    "address": "123 Main Street, Buffalo, NY 14214",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    "email": "abc@123.com",
-    "phone": "999-999-9999",
-    "image_url": "/assest/images/local-biz-1.jpg"
+    "name": "Bloom & Grow Floristry",
+    "type": "Retail",
+    "address": "456 Elm Street, Buffalo, NY 14203",
+    "description": "A charming flower shop offering bespoke floral arrangements for all occasions. Our expert florists create stunning bouquets using locally sourced, seasonal blooms to bring natural beauty into your home or event.",
+    "email": "hello@bloomandgrow.com",
+    "phone": "716-555-0123",
+    "image_url": "/assest/images/local-biz-1.jpg",
+    "website_url": "https://google.com/"
   },
   {
-    "name": "Health 101",
-    "type": "Health",
-    "address": "123 Main Street, Buffalo, NY 14214",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    "email": "abc@123.com",
-    "phone": "999-999-9999",
-    "image_url": "/assest/images/local-biz-2.jpg"
+    "name": "Tech Savvy Solutions",
+    "type": "Technology",
+    "address": "789 Innovation Drive, Buffalo, NY 14228",
+    "description": "A forward-thinking IT consultancy specializing in custom software development and cybersecurity solutions for small to medium-sized businesses. Our team of experts helps companies navigate the digital landscape with confidence.",
+    "email": "info@techsavvysolutions.com",
+    "phone": "716-555-0456",
+    "image_url": "/assest/images/local-biz-2.jpg",
+    "website_url": "https://google.com/"
   },
   {
-    "name": "Business 101",
-    "type": "Business",
-    "address": "123 Main Street, Buffalo, NY 14214",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    "email": "abc@123.com",
-    "phone": "999-999-9999",
-    "image_url": "/assest/images/local-biz-3.jpg"
+    "name": "Culinary Creations Catering",
+    "type": "Food & Beverage",
+    "address": "101 Tasty Lane, Buffalo, NY 14214",
+    "description": "An innovative catering company that brings gourmet experiences to your events. We specialize in farm-to-table cuisine, fusion dishes, and dietary-specific menus, ensuring unforgettable dining experiences for all your guests.",
+    "email": "events@culinarycatering.com",
+    "phone": "716-555-0789",
+    "image_url": "/assest/images/local-biz-3.jpg",
+    "website_url": "https://google.com/"
   },
   {
-    "name": "Food 101",
-    "type": "Food",
-    "address": "123 Main Street, Buffalo, NY 14214",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    "email": "abc@123.com",
-    "phone": "999-999-9999",
-    "image_url": "/assest/images/local-biz-4.jpg"
+    "name": "Mindful Wellness Center",
+    "type": "Health & Wellness",
+    "address": "222 Serenity Avenue, Buffalo, NY 14220",
+    "description": "A holistic wellness center offering a range of services including yoga, meditation, nutrition counseling, and therapeutic massage. Our experienced practitioners are dedicated to helping you achieve balance and well-being in your life.",
+    "email": "info@mindfulwellnesscenter.com",
+    "phone": "716-555-1012",
+    "image_url": "/assest/images/local-biz-4.jpg",
+    "website_url": "https://google.com/"
   },
   {
-    "name": "LifeStyle 101",
-    "type": "LifeStyle",
-    "address": "123 Main Street, Buffalo, NY 14214",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    "email": "abc@123.com",
-    "phone": "999-999-9999",
-    "image_url": "/assest/images/local-biz-5.jpg"
+    "name": "Eco Chic Boutique",
+    "type": "Fashion",
+    "address": "333 Green Street, Buffalo, NY 14213",
+    "description": "A sustainable fashion boutique featuring eco-friendly clothing, accessories, and home goods. We curate a collection of stylish, ethically-made products that minimize environmental impact without compromising on quality or design.",
+    "email": "shop@ecochicboutique.com",
+    "phone": "716-555-1415",
+    "image_url": "/assest/images/local-biz-5.jpg",
+    "website_url": "https://google.com/"
   },
   {
-    "name": "Food 101",
-    "type": "Food",
-    "address": "123 Main Street, Buffalo, NY 14214",
-    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit. lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    "email": "abc@123.com",
-    "phone": "999-999-9999",
-    "image_url": "/assest/images/local-biz-6.jpg"
+    "name": "Buffalo Brews & Books",
+    "type": "Retail",
+    "address": "567 Literary Lane, Buffalo, NY 14201",
+    "description": "A unique combination of a craft beer taproom and independent bookstore. We offer a carefully curated selection of local brews and literary works, creating a cozy space for book lovers and beer enthusiasts to come together and explore new flavors and stories.",
+    "email": "info@buffalobrewsandbooks.com",
+    "phone": "716-555-1617",
+    "image_url": "/assest/images/local-biz-6.jpg",
+    "website_url": "https://google.com/"
   }
 ]

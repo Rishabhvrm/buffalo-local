@@ -23,11 +23,7 @@ export function Feed() {
         px={"2%"}
       > */}
 
-      <Flex
-        justifyContent={"space-between"} 
-        mx={"1%"}
-        py={"1%"}
-      >
+      <Flex justifyContent={"space-between"} mx={"1%"} py={"1%"}>
         <GroupTitle />
         <Filters
           onViewChange={(viewType) => {
@@ -38,15 +34,21 @@ export function Feed() {
       </Flex>
 
       {/* <SimpleGrid columns={viewType === "list" ? 1 : 3} spacing={8}> */}
-      <SimpleGrid minChildWidth={"300px"} spacing={10}>
-        
-          {org.map((org) => (
-            <Box>
-              <Repo isListView={viewType === "list"} org={org} />
-              {/* <Repo isListView={viewType === "list"}/> */}
-            </Box>
-          ))}
-        
+      <SimpleGrid
+        minChildWidth={"300px"}
+        maxW="1200px"
+        spacing={5}
+        columns={{ base: 1, sm: 3, md: 3, lg: 3 }}
+        justifyContent={"center"}
+        mx={"auto"}
+        p={"1%"}
+      >
+        {org.map((org) => (
+          <Box p={"3%"}>
+            <Repo isListView={viewType === "list"} org={org} />
+            {/* <Repo isListView={viewType === "list"}/> */}
+          </Box>
+        ))}
       </SimpleGrid>
 
       {/* <Flex alignItems={"center"} justifyContent={"center"} my={"20px"}>
